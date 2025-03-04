@@ -22,8 +22,6 @@
 ## Языки программирования
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kazah1242&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kazah1242&theme=dark)](https://git.io/streak-stats)
 
 ## Связаться со мной
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Kazah1242)
