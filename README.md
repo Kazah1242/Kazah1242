@@ -1,7 +1,7 @@
 # 👋 Привет, я Ильяс
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Frontend+Developer;Fullstack+Developer;GO+WORK!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=LFG!!;Fullstack+Developer;GO+WORK!" alt="Typing SVG" />
 </div>
 
 ## 💫 О себе
